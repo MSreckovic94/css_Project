@@ -1,6 +1,6 @@
 /* Hero section styles */
 
-.hero-section{
+.hero-section {
   background-image: url(../Images/backgrounds/Background.jpg);
   padding: 100px;
   height: 300px;
@@ -8,7 +8,6 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  
 }
 
 .hero-section > .top-heading {
@@ -18,7 +17,6 @@
   color: #cbcbcb;
   width: 290px;
   border-radius: 2px;
- 
 }
 
 .hero-section > .bottom-heading {
@@ -29,7 +27,3 @@
   padding: 1px 20px;
   margin-top: 15px;
 }
-
-
-
-/* test */
