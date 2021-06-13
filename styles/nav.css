@@ -62,13 +62,13 @@
   height: 100%;
 }
 
-.link-wrapper {
+.navigation-wrapper > .center-colum > .link-wrapper {
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
 
-.link-wrapper > .nav-link {
+.navigation-wrapper > .center-colum > .link-wrapper > .nav-link {
   width: 70px;
   text-align: center;
 }
