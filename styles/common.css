@@ -16,7 +16,7 @@ h6 {
 /* FOOTER SETTINGS */
 
 .footer {
-  height: 572px;
+  height: 400px;
   background-color: #11122b;
   color: #cbcbcb;
   /* flexbox */
@@ -24,7 +24,7 @@ h6 {
   justify-content: center;
   align-items: center;
   /* this way of padding works clockwise, can take 4 arguments */
-  padding: 80px 0px 0px 0px;
+  padding: 10px 0px 10px 0px;
   /* padding-left: 40%; */
   font-family: "Ubuntu Condensed", sans-serif;
   margin-top: -4px;
@@ -51,7 +51,7 @@ h6 {
   justify-content: space-between;
   align-items: center;
   /* padding-top: 60px; */
-  padding-bottom: 40px;
+  /* padding-bottom: 40px; */
 }
 
 .footer > .central-column > .link-wrapper > .nav-link {
@@ -66,9 +66,10 @@ h6 {
 }
 
 .footer > .central-column > .banner img {
-  width: 216px;
+  width: 150px;
   height: 100%;
   opacity: 0.5;
+  
 }
 
 .working-hours {
@@ -92,5 +93,5 @@ h6 {
 .footer > .central-column > .copyright-wrapper {
   text-align: center;
   font-size: 10px;
-  padding-bottom: 60px;
+  /* padding-bottom: 60px; */
 }
